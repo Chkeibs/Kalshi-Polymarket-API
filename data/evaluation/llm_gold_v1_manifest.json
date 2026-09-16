@@ -1,0 +1,24 @@
+{
+  "counts": {
+    "AMBIGUOUS": 38,
+    "MATCH": 381,
+    "NO_MATCH": 513,
+    "development": 740,
+    "holdout": 192,
+    "legacy_confirmed_positive_pending_reaudit": 381,
+    "synthetic_explicit_subject_conflict": 381,
+    "synthetic_explicit_threshold_conflict": 67,
+    "synthetic_explicit_time_conflict": 65,
+    "synthetic_missing_time": 38
+  },
+  "examples": 932,
+  "limitations": [
+    "Legacy confirmed positives require independent human re-audit.",
+    "Synthetic mutations test the decision contract but do not replace real negative labels.",
+    "Production activation requires two annotations on the manual review queue."
+  ],
+  "manual_review_candidates_sha256": "0b78957adefcb6aa9fc542598976a4e9e9526a1eb9e57e4cea1e742195c50cd0",
+  "manual_review_queue": 300,
+  "sha256": "ca318864fff8580657eb15ec88a392e0d719a3c087a55d966cb8069cb39a4552",
+  "version": "llm-gold-v1"
+}

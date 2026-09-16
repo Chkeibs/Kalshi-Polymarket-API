@@ -1,0 +1,11 @@
+aiohttp
+cryptography
+fastapi
+openai>=2.14.0
+pandas
+python-dotenv
+pytest>=8.0
+requests
+spacy
+tqdm
+uvicorn

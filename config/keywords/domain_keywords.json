@@ -1,0 +1,57 @@
+{
+  "gpe": [
+    "california",
+    "brazil",
+    "brazilian",
+    "china",
+    "costa rica",
+    "costa rican",
+    "france",
+    "germany",
+    "india",
+    "iran",
+    "israel",
+    "japan",
+    "new york",
+    "russia",
+    "texas",
+    "ukraine",
+    "united kingdom",
+    "united states"
+  ],
+  "loc": [
+    "earth",
+    "mars",
+    "moon"
+  ],
+  "org": [
+    "anthropic",
+    "bitcoin",
+    "ethereum",
+    "federal reserve",
+    "google",
+    "microsoft",
+    "nasdaq",
+    "openai",
+    "s&p 500",
+    "tesla"
+  ],
+  "person": [
+    "alexandria ocasio cortez",
+    "donald trump",
+    "elon musk",
+    "joe biden",
+    "kamala harris",
+    "robert f kennedy",
+    "xi jinping"
+  ],
+  "topic": [
+    "basis points",
+    "consumer price index",
+    "gross domestic product",
+    "inflation",
+    "interest rates",
+    "initial public offering",
+    "tariffs"
+  ]
+}

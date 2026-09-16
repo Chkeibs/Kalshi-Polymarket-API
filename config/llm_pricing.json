@@ -1,0 +1,35 @@
+{
+  "version": "2026-06-21",
+  "currency": "USD",
+  "source": "https://developers.openai.com/api/docs/pricing",
+  "models": {
+    "gpt-5-nano": {
+      "standard": {"input": 0.05, "cached_input": 0.005, "output": 0.4},
+      "batch": {"input": 0.025, "cached_input": 0.0025, "output": 0.2}
+    },
+    "gpt-5-mini": {
+      "standard": {"input": 0.25, "cached_input": 0.025, "output": 2.0},
+      "batch": {"input": 0.125, "cached_input": 0.0125, "output": 1.0}
+    },
+    "gpt-5.2-2025-12-11": {
+      "standard": {"input": 1.75, "cached_input": 0.175, "output": 14.0},
+      "batch": {"input": 0.875, "cached_input": 0.0875, "output": 7.0}
+    },
+    "gpt-5.4-nano": {
+      "standard": {"input": 0.2, "cached_input": 0.02, "output": 1.25},
+      "batch": {"input": 0.1, "cached_input": 0.01, "output": 0.625}
+    },
+    "gpt-5.4-mini": {
+      "standard": {"input": 0.75, "cached_input": 0.075, "output": 4.5},
+      "batch": {"input": 0.375, "cached_input": 0.0375, "output": 2.25}
+    },
+    "gpt-5.4": {
+      "standard": {"input": 2.5, "cached_input": 0.25, "output": 15.0},
+      "batch": {"input": 1.25, "cached_input": 0.125, "output": 7.5}
+    },
+    "gpt-5.5": {
+      "standard": {"input": 5.0, "cached_input": 0.5, "output": 30.0},
+      "batch": {"input": 2.5, "cached_input": 0.25, "output": 15.0}
+    }
+  }
+}

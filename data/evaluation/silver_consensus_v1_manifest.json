@@ -1,0 +1,21 @@
+{
+  "annotators": [
+    "frontier_none",
+    "frontier_tiebreak",
+    "mini_low"
+  ],
+  "consensus": 300,
+  "counts": {
+    "accepted:AMBIGUOUS": 18,
+    "accepted:MATCH": 150,
+    "accepted:NO_MATCH": 132,
+    "accepted_type:event_event": 200,
+    "accepted_type:event_outcome": 16,
+    "accepted_type:outcome_outcome": 84,
+    "human_resolved": 20
+  },
+  "disagreements": 0,
+  "limitation": "Model consensus is a silver set. Human review is required before calling it gold.",
+  "reviewed_candidates": 300,
+  "version": "silver-consensus-v1"
+}

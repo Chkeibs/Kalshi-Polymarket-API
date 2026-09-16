@@ -1,0 +1,1019 @@
+{
+    "Crypto / BTC": [
+        "Crypto",
+        "Crypto Prices",
+        "Satoshi"
+    ],
+    "Crypto / BTC, Hourly": [
+        "Crypto",
+        "Crypto Prices",
+        "Satoshi",
+        "Hourly",
+        "15M",
+        "5M",
+        "Up Or Down",
+        "Hit Price"
+    ],
+    "Crypto / Dogecoin": [
+        "Crypto",
+        "Crypto Prices",
+        "Dogecoin"
+    ],
+    "Crypto / ETH": [
+        "Crypto",
+        "Crypto Prices",
+        "Ethgas"
+    ],
+    "Crypto / ETH, Hourly": [
+        "Crypto",
+        "Crypto Prices",
+        "Ethgas",
+        "Hourly",
+        "15M",
+        "5M",
+        "Up Or Down",
+        "Hit Price"
+    ],
+    "Crypto / Hourly": [
+        "Crypto",
+        "Crypto Prices",
+        "Hourly",
+        "15M",
+        "5M",
+        "Up Or Down",
+        "Hit Price"
+    ],
+    "Crypto / Hourly, SOL": [
+        "Crypto",
+        "Crypto Prices",
+        "Solana",
+        "Hourly",
+        "15M",
+        "5M",
+        "Up Or Down",
+        "Hit Price"
+    ],
+    "Crypto / N/A": [
+        "Crypto",
+        "Crypto Prices"
+    ],
+    "Crypto / Pre-Market": [
+        "Crypto",
+        "Crypto Prices"
+    ],
+    "Crypto / SHIBA": [
+        "Crypto",
+        "Crypto Prices"
+    ],
+    "Crypto / SOL": [
+        "Crypto",
+        "Crypto Prices",
+        "Solana"
+    ],
+    "Culture / Awards": [
+        "Culture",
+        "Celebrities",
+        "Grammys"
+    ],
+    "Culture / Awards, Movies": [
+        "Culture",
+        "Celebrities"
+    ],
+    "Culture / Awards, Music": [
+        "Culture",
+        "Celebrities",
+        "Grammys",
+        "Kpop",
+        "Spotify",
+        "Charts"
+    ],
+    "Culture / Awards, Video games": [
+        "Culture",
+        "Esports",
+        "Apex Legends",
+        "Call Of Duty",
+        "Cod",
+        "Counter Strike 2",
+        "Cs2",
+        "League Of Legends",
+        "Lol",
+        "Pokemon"
+    ],
+    "Culture / Elections, US Elections": [
+        "Politics",
+        "Nov 4 Elections",
+        "Primaries",
+        "Democratic Party"
+    ],
+    "Culture / Football": [
+        "Sports",
+        "Cfb",
+        "Ncaa Football",
+        "Nfl Draft",
+        "Nfl Playoffs",
+        "Fantasy Football",
+        "Epl",
+        "Mls",
+        "Bundesliga",
+        "Bundesliga 2",
+        "Ligue 1",
+        "Ligue 2",
+        "Efl Championship",
+        "Liga Mx",
+        "Scottish Premiership",
+        "Africa Cup Of Nations",
+        "World Cup"
+    ],
+    "Culture / Live Music": [
+        "Culture",
+        "Spotify",
+        "Charts",
+        "Kpop",
+        "Grammys"
+    ],
+    "Culture / Movies": [
+        "Culture",
+        "Netflix",
+        "Top Netflix",
+        "Avatar"
+    ],
+    "Culture / Movies, Rotten Tomatoes": [
+        "Culture"
+    ],
+    "Culture / Movies, Television": [
+        "Culture",
+        "Netflix",
+        "Top Netflix"
+    ],
+    "Culture / Music": [
+        "Culture",
+        "Spotify",
+        "Grammys",
+        "Kpop"
+    ],
+    "Culture / Music charts": [
+        "Culture",
+        "Charts",
+        "Spotify",
+        "Kpop"
+    ],
+    "Culture / Music, Music charts": [
+        "Culture",
+        "Charts",
+        "Spotify",
+        "Kpop"
+    ],
+    "Culture / N/A": [
+        "Culture"
+    ],
+    "Culture / Policy, US Elections": [
+        "Politics",
+        "Nov 4 Elections",
+        "Primaries",
+        "Democratic Party",
+        "Approval",
+        "Opinion"
+    ],
+    "Culture / Product launches, Video games": [
+        "Culture",
+        "Video games",
+        "App Store",
+        "Pokemon",
+        "Apex Legends",
+        "Call Of Duty",
+        "Cod",
+        "Counter Strike 2",
+        "Cs2",
+        "League Of Legends",
+        "Lol",
+        "Esports"
+    ],
+    "Culture / Television": [
+        "Culture",
+        "Netflix",
+        "Top Netflix"
+    ],
+    "Culture / Video games": [
+        "Culture",
+        "Video games",
+        "Pokemon",
+        "Apex Legends",
+        "Call Of Duty",
+        "Cod",
+        "Counter Strike 2",
+        "Cs2",
+        "League Of Legends",
+        "Lol",
+        "Esports"
+    ],
+    "Economics / AI": [
+        "Economics",
+        "Climate & Science",
+        "Science",
+        "Sam Altman",
+        "Nvda",
+        "Msft",
+        "Googl",
+        "Meta",
+        "Apple",
+        "Aapl",
+        "Amzn",
+        "Tesla",
+        "Tsla",
+        "Pltr"
+    ],
+    "Economics / CEOs": [
+        "Economics",
+        "Celebrities",
+        "Other"
+    ],
+    "Economics / CEOs, Elon Musk": [
+        "Economics",
+        "Elon Musk",
+        "Tesla",
+        "Tsla",
+        "Twitter",
+        "Tweet Markets",
+        "Celebrities"
+    ],
+    "Economics / Daily, EUR/USD": [
+        "Economics",
+        "Daily",
+        "Dollar",
+        "Eu",
+        "Europe"
+    ],
+    "Economics / Daily, Nasdaq": [
+        "Economics",
+        "Daily",
+        "Equities",
+        "Indicies",
+        "Ndx"
+    ],
+    "Economics / Daily, USD/JPY": [
+        "Economics",
+        "Daily",
+        "Dollar",
+        "Japan"
+    ],
+    "Economics / EUR/USD": [
+        "Economics",
+        "Dollar",
+        "Eu",
+        "Europe"
+    ],
+    "Economics / Earnings Mention": [
+        "Economics",
+        "Earnings",
+        "Earnings Calls",
+        "Mentions"
+    ],
+    "Economics / Elon Musk, KPIs": [
+        "Economics",
+        "Elon Musk",
+        "Tesla",
+        "Tsla",
+        "Other"
+    ],
+    "Economics / Elon Musk, Product launches": [
+        "Economics",
+        "Elon Musk",
+        "Tesla",
+        "Tsla",
+        "Twitter",
+        "Other"
+    ],
+    "Economics / Elon Musk, Product launches, Space": [
+        "Economics",
+        "Elon Musk",
+        "Today \ud83d\ude80",
+        "Science",
+        "Climate & Science",
+        "Other"
+    ],
+    "Economics / Elon Musk, Space": [
+        "Economics",
+        "Elon Musk",
+        "Tesla",
+        "Tsla",
+        "Science",
+        "Climate & Science",
+        "World"
+    ],
+    "Economics / Employment": [
+        "Economics",
+        "Nfp"
+    ],
+    "Economics / Fed": [
+        "Economics",
+        "Dollar"
+    ],
+    "Economics / Growth": [
+        "Economics"
+    ],
+    "Economics / Housing, Mortgages": [
+        "Economics"
+    ],
+    "Economics / Inflation": [
+        "Economics",
+        "Cpi",
+        "Dollar"
+    ],
+    "Economics / International": [
+        "Economics",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "China",
+        "Japan",
+        "Russia",
+        "Ukraine Peace Deal",
+        "Ukraine Map",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Venezuela",
+        "Lebanon",
+        "Syria",
+        "Sudan",
+        "Greenland",
+        "Poland",
+        "Denmark",
+        "Nz"
+    ],
+    "Economics / KPIs": [
+        "Economics",
+        "Cpi",
+        "Nfp",
+        "Dollar"
+    ],
+    "Economics / N/A": [
+        "Economics"
+    ],
+    "Economics / Oil and energy": [
+        "Economics",
+        "Commodities",
+        "Nymex Crude Oil Futures",
+        "Nuclear",
+        "Climate & Science"
+    ],
+    "Economics / Product launches": [
+        "Economics",
+        "Apple",
+        "App Store",
+        "Aapl",
+        "Amzn",
+        "Meta",
+        "Msft",
+        "Googl",
+        "Nvda",
+        "Tesla",
+        "Tsla",
+        "Spotify",
+        "Netflix",
+        "Nflx",
+        "Youtube",
+        "Open",
+        "Sam Altman",
+        "All-In",
+        "Token Sales",
+        "Ipos",
+        "Acquisitions",
+        "M&A",
+        "Earnings",
+        "Earnings Calls"
+    ],
+    "Economics / S&P": [
+        "Economics",
+        "Equities",
+        "Indicies",
+        "Spx"
+    ],
+    "Economics / Trump": [
+        "Economics",
+        "Politics",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy",
+        "Tariffs",
+        "Taxes",
+        "Dollar",
+        "Gov Shutdown",
+        "Shutdown"
+    ],
+    "Economics / Video games": [
+        "Economics",
+        "Culture",
+        "Esports",
+        "Apex Legends",
+        "Call Of Duty",
+        "Cod",
+        "Counter Strike 2",
+        "Cs2",
+        "League Of Legends",
+        "Lol",
+        "Pokemon"
+    ],
+    "Health / Diseases": [
+        "Disease",
+        "Health",
+        "Science",
+        "Climate & Science"
+    ],
+    "Health / FDA Approval": [
+        "Approval",
+        "Drug",
+        "Science",
+        "Climate & Science"
+    ],
+    "Health / N/A": [],
+    "Health / Trump": [
+        "Politics",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy"
+    ],
+    "Mentions / N/A": [
+        "Mentions"
+    ],
+    "Politics / AI, Congress": [
+        "Politics",
+        "Science",
+        "Climate & Science",
+        "Sam Altman",
+        "Gov Shutdown",
+        "Shutdown",
+        "Scotus",
+        "Democratic Party",
+        "Primaries",
+        "Cabinet"
+    ],
+    "Politics / Awards, Television": [
+        "Politics",
+        "Culture",
+        "Celebrities",
+        "Grammys",
+        "Netflix",
+        "Top Netflix",
+        "Youtube",
+        "Twitter",
+        "Tweet Markets"
+    ],
+    "Politics / BTC, Trump": [
+        "Politics",
+        "Crypto",
+        "Crypto Prices",
+        "Satoshi",
+        "Trump",
+        "Dollar"
+    ],
+    "Politics / Congress": [
+        "Politics",
+        "Gov Shutdown",
+        "Shutdown",
+        "Taxes",
+        "Tariffs",
+        "Scotus",
+        "Cabinet",
+        "Democratic Party"
+    ],
+    "Politics / Congress, Trump": [
+        "Politics",
+        "Trump",
+        "Gov Shutdown",
+        "Shutdown",
+        "Taxes",
+        "Tariffs",
+        "Scotus",
+        "Cabinet",
+        "Democratic Party"
+    ],
+    "Politics / Fed": [
+        "Politics",
+        "Economics",
+        "Dollar",
+        "Cpi",
+        "Nfp",
+        "Commodities",
+        "Comex Gold Futures",
+        "Comex Silver Futures",
+        "Nymex Crude Oil Futures"
+    ],
+    "Politics / Foreign Elections": [
+        "Politics",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Nov 4 Elections",
+        "Primaries",
+        "Portugal Election",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Russia",
+        "China",
+        "Japan",
+        "Bangladesh",
+        "Denmark",
+        "Venezuela",
+        "Sudan",
+        "Syria",
+        "Lebanon",
+        "Greenland",
+        "Nz"
+    ],
+    "Politics / Foreign Elections, International": [
+        "Politics",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Portugal Election",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Russia",
+        "China",
+        "Japan",
+        "Bangladesh",
+        "Denmark",
+        "Venezuela",
+        "Sudan",
+        "Syria",
+        "Lebanon",
+        "Greenland",
+        "Nz"
+    ],
+    "Politics / Foreign Elections, International elections": [
+        "Politics",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Portugal Election",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Russia",
+        "China",
+        "Japan",
+        "Bangladesh",
+        "Denmark",
+        "Venezuela",
+        "Sudan",
+        "Syria",
+        "Lebanon",
+        "Greenland",
+        "Nz"
+    ],
+    "Politics / Growth": [
+        "Politics",
+        "Economics",
+        "Cpi",
+        "Nfp",
+        "Equities",
+        "Spx",
+        "Dji",
+        "Ndx",
+        "Rut",
+        "Dollar",
+        "Commodities"
+    ],
+    "Politics / House": [
+        "Politics",
+        "Gov Shutdown",
+        "Shutdown",
+        "Taxes",
+        "Tariffs",
+        "Scotus",
+        "Cabinet",
+        "Democratic Party"
+    ],
+    "Politics / International": [
+        "Politics",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Russia",
+        "Ukraine Map",
+        "Ukraine Peace Deal",
+        "China",
+        "Japan",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Denmark",
+        "Portugal Election",
+        "Lebanon",
+        "Syria",
+        "Sudan",
+        "Sudan Map",
+        "Venezuela",
+        "Maduro",
+        "Khamenei",
+        "Zelenskyy",
+        "Thailand-Cambodia",
+        "Nuclear",
+        "Tariffs",
+        "Taxes",
+        "Gov Shutdown",
+        "Shutdown"
+    ],
+    "Politics / International, Recurring": [
+        "Politics",
+        "Recurring",
+        "World",
+        "World Affairs",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Russia",
+        "Ukraine Map",
+        "Ukraine Peace Deal",
+        "China",
+        "Japan",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Denmark",
+        "Portugal Election",
+        "Lebanon",
+        "Syria",
+        "Sudan",
+        "Sudan Map",
+        "Venezuela",
+        "Maduro",
+        "Khamenei",
+        "Zelenskyy",
+        "Thailand-Cambodia",
+        "Nuclear",
+        "Tariffs",
+        "Taxes",
+        "Gov Shutdown",
+        "Shutdown"
+    ],
+    "Politics / International, Trump": [
+        "Politics",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy",
+        "World Affairs",
+        "World",
+        "Ukraine Peace Deal",
+        "Ukraine Map",
+        "Zelenskyy",
+        "Venezuela",
+        "Maduro",
+        "Tariffs",
+        "Taxes"
+    ],
+    "Politics / Local": [
+        "Politics",
+        "Illinois",
+        "Minnesota",
+        "North Carolina",
+        "Los Angeles",
+        "Nyc Mayor",
+        "Eric Adams",
+        "Minnesota Unrest"
+    ],
+    "Politics / Local, SCOTUS & courts": [
+        "Politics",
+        "Scotus",
+        "Crime"
+    ],
+    "Politics / N/A": [
+        "Politics"
+    ],
+    "Politics / Primaries": [
+        "Politics",
+        "Primaries",
+        "Democratic Party",
+        "Nov 4 Elections"
+    ],
+    "Politics / Recurring": [
+        "Politics",
+        "Recurring"
+    ],
+    "Politics / Recurring, Trump": [
+        "Politics",
+        "Recurring",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy"
+    ],
+    "Politics / SCOTUS & courts": [
+        "Politics",
+        "Scotus",
+        "Crime"
+    ],
+    "Politics / SCOTUS & courts, Trump": [
+        "Politics",
+        "Scotus",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy"
+    ],
+    "Politics / Trump": [
+        "Politics",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy",
+        "Tweet Markets",
+        "Twitter"
+    ],
+    "Politics / US Elections": [
+        "Politics",
+        "Nov 4 Elections",
+        "Primaries",
+        "Democratic Party",
+        "Approval",
+        "Cabinet",
+        "Gov Shutdown",
+        "Shutdown"
+    ],
+    "Science / AI": [
+        "Science",
+        "Climate & Science",
+        "Sam Altman"
+    ],
+    "Science / AI, KPIs": [
+        "Science",
+        "Climate & Science",
+        "Sam Altman",
+        "Mentions",
+        "Charts",
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Yearly"
+    ],
+    "Science / Climate change": [
+        "Climate & Science",
+        "Science",
+        "Natural Disaster",
+        "Nuclear",
+        "Earthquake",
+        "Commodities",
+        "Nymex Crude Oil Futures"
+    ],
+    "Science / Daily temperature": [
+        "Climate & Science",
+        "Science",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Natural Disaster"
+    ],
+    "Science / Daily temperature, High temp": [
+        "Climate & Science",
+        "Science",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Natural Disaster"
+    ],
+    "Science / Elon Musk, Energy": [
+        "Elon Musk",
+        "Science",
+        "Climate & Science",
+        "Energy",
+        "Tesla",
+        "Tsla",
+        "Nuclear",
+        "Nymex Crude Oil Futures",
+        "Commodities"
+    ],
+    "Science / Energy": [
+        "Science",
+        "Climate & Science",
+        "Nuclear",
+        "Nymex Crude Oil Futures",
+        "Commodities",
+        "Tariffs"
+    ],
+    "Science / N/A": [
+        "Science",
+        "Climate & Science"
+    ],
+    "Science / Natural disasters": [
+        "Natural Disaster",
+        "Earthquake",
+        "Climate & Science",
+        "Science"
+    ],
+    "Science / Snow and rain": [
+        "Climate & Science",
+        "Science"
+    ],
+    "Social / N/A": [
+        "Culture",
+        "Celebrities",
+        "Opinion",
+        "Other"
+    ],
+    "Social / Trump": [
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump-Zelenskyy",
+        "Politics"
+    ],
+    "Sports / Baseball": [
+        "Sports"
+    ],
+    "Sports / Basketball": [
+        "Sports",
+        "Euroleague Basketball",
+        "Ncaa Basketball",
+        "Ncaa Cbb",
+        "Nbl"
+    ],
+    "Sports / Chess": [
+        "Sports"
+    ],
+    "Sports / Cricket": [
+        "Sports",
+        "Cricket",
+        "Icc"
+    ],
+    "Sports / Esports": [
+        "Sports",
+        "Esports",
+        "Apex Legends",
+        "Call Of Duty",
+        "Cod",
+        "Counter Strike 2",
+        "Cs2",
+        "League Of Legends",
+        "Lol"
+    ],
+    "Sports / Football": [
+        "Sports",
+        "Fantasy Football",
+        "Cfb",
+        "Ncaa Football",
+        "Nfl Draft",
+        "Nfl Playoffs",
+        "Epl",
+        "Mls",
+        "Bundesliga",
+        "Bundesliga 2",
+        "Ligue 1",
+        "Ligue 2",
+        "Efl Championship",
+        "Scottish Premiership",
+        "Australian A-League",
+        "Liga Mx",
+        "World Cup",
+        "Africa Cup Of Nations"
+    ],
+    "Sports / Golf": [
+        "Sports"
+    ],
+    "Sports / Hockey": [
+        "Sports"
+    ],
+    "Sports / MMA": [
+        "Sports",
+        "Mma",
+        "Ufc"
+    ],
+    "Sports / Motorsport": [
+        "Sports"
+    ],
+    "Sports / N/A": [
+        "Sports"
+    ],
+    "Sports / Soccer": [
+        "Sports",
+        "Epl",
+        "Mls",
+        "Bundesliga",
+        "Bundesliga 2",
+        "Ligue 1",
+        "Ligue 2",
+        "Efl Championship",
+        "Scottish Premiership",
+        "Australian A-League",
+        "Liga Mx",
+        "World Cup",
+        "Africa Cup Of Nations"
+    ],
+    "Sports / Tennis": [
+        "Sports",
+        "Wta",
+        "Sinner"
+    ],
+    "Sports / UFC": [
+        "Sports",
+        "Ufc",
+        "Mma"
+    ],
+    "Transportation / N/A": [
+        "Tsa"
+    ],
+    "World / Fed": [
+        "Economics",
+        "Dollar",
+        "World",
+        "World Affairs"
+    ],
+    "World / International": [
+        "World",
+        "World Affairs",
+        "Politics",
+        "Europe",
+        "Eu",
+        "Uk",
+        "Ukraine Map",
+        "Ukraine Peace Deal",
+        "Russia",
+        "China",
+        "Japan",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Poland",
+        "Denmark",
+        "Greenland",
+        "Lebanon",
+        "Syria",
+        "Sudan",
+        "Sudan Map",
+        "Venezuela",
+        "Maduro",
+        "Khamenei",
+        "Zelenskyy",
+        "Thailand-Cambodia",
+        "Tariffs",
+        "Nuclear"
+    ],
+    "World / KPIs": [
+        "Economics",
+        "Cpi",
+        "Nfp",
+        "Dollar",
+        "Dax",
+        "Dji",
+        "Ftse",
+        "Hsi",
+        "Indicies",
+        "Ndx",
+        "Nya",
+        "Rut",
+        "Spx",
+        "World"
+    ],
+    "World / Local": [
+        "World",
+        "World Affairs",
+        "Politics",
+        "Canada",
+        "Australia",
+        "Mexico",
+        "Uk",
+        "Eu",
+        "Europe",
+        "China",
+        "Japan",
+        "Russia",
+        "Poland",
+        "Denmark",
+        "Greenland",
+        "Lebanon",
+        "Syria",
+        "Sudan",
+        "Sudan Map",
+        "Venezuela"
+    ],
+    "World / N/A": [
+        "World",
+        "World Affairs"
+    ],
+    "World / Trump": [
+        "Trump-Zelenskyy",
+        "Trump X Al-Sharaa",
+        "Trump-Machado",
+        "Trump",
+        "Politics",
+        "World Affairs",
+        "World",
+        "Tariffs",
+        "Ukraine Peace Deal",
+        "Zelenskyy",
+        "Venezuela",
+        "Maduro",
+        "Syria"
+    ]
+}

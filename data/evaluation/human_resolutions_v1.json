@@ -1,0 +1,106 @@
+{
+  "version": "human-resolutions-v1",
+  "reviewer": "codex-manual-audit-2026-06-21",
+  "resolutions": {
+    "event-2fc2cf66ba9dc02876b561bd": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Bundesliga fixture and teams; market subcontracts differ but the event is identical."
+    },
+    "event-e174d926d558599011ad3602": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Both refer to Keir Starmer's next PMQs appearance and its listed speech terms."
+    },
+    "event-b71d027e4af9460a9651eca8": {
+      "decision": "NO_MATCH",
+      "relation_type": "NONE",
+      "notes": "Kalshi context concerns Paxton/Republican primary contracts while Polymarket is explicitly the Democratic first round."
+    },
+    "event-32fa1211a636ccb167f15f3f": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Bank of Korea April policy meeting; Apr 9/Apr 10 is a timezone representation difference."
+    },
+    "event-bb8138394b739cfe955e2a82": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Real Madrid-Celta Vigo fixture; event-level match remains valid despite market-type and displayed-date differences."
+    },
+    "outcome-4a61cb96347dcf357dca6edb": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_OUTCOME_BRIDGE",
+      "notes": "Before Jan 1, 2027 and by Dec 31, 2026 11:59 PM ET define the same Exponent token-launch window."
+    },
+    "outcome-efe90592ef960c8566748294": {
+      "decision": "NO_MATCH",
+      "relation_type": "NONE",
+      "notes": "Same NBA statistic, but tie resolution differs: proportional payout versus games-played/alphabetical tiebreak."
+    },
+    "outcome-adfd1717bdd1bbd3aed1f4b6": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_OUTCOME_BRIDGE",
+      "notes": "Same player, 2025-26 NBA Most Improved Player award and resolution predicate; Kalshi expiration metadata is not the predicate."
+    },
+    "outcome-6d9db74e25ae9388783e9e48": {
+      "decision": "NO_MATCH",
+      "relation_type": "NONE",
+      "notes": "Kalshi can resolve for the next departure after Feb 4 during the term; Polymarket stops at Dec 31, 2026."
+    },
+    "event-e3b71e0fb259207714a3df99": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Crystal Palace-Tottenham fixture and date; both contain full-match submarkets."
+    },
+    "event-b529e9d3a49016ee074fc5d0": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Toronto-Cincinnati MLS fixture on March 8."
+    },
+    "event-a0fae4eb41ee02c816d9e658": {
+      "decision": "AMBIGUOUS",
+      "relation_type": "NONE",
+      "notes": "Polymarket explicitly identifies the women's game while Kalshi title/context omit gender."
+    },
+    "event-32ebcce0a57febed04837512": {
+      "decision": "NO_MATCH",
+      "relation_type": "NONE",
+      "notes": "Kalshi is the full-match result while Polymarket resolves only on halftime."
+    },
+    "event-b124600e4ebe3ffba078c3f8": {
+      "decision": "AMBIGUOUS",
+      "relation_type": "NONE",
+      "notes": "Teams align but the supplied contexts explicitly show March 8 versus March 7 without enough timezone evidence."
+    },
+    "event-e26897dccc17c5baecf3a81f": {
+      "decision": "NO_MATCH",
+      "relation_type": "NONE",
+      "notes": "Kalshi is the full-match result while Polymarket resolves only on halftime."
+    },
+    "event-dd8cc991f73a0e7795e07a23": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Villarreal-Elche La Liga fixture on March 8."
+    },
+    "event-ad5758bf30cca6a4b6bcc752": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_EVENT",
+      "notes": "Same Lecce-Cremonese fixture; both sides contain full-match submarkets."
+    },
+    "outcome-540c6097972c5cdfe05b0110": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_OUTCOME_BRIDGE",
+      "notes": "Before Jan 1, 2027 equals by Dec 31, 2026 11:59 PM ET for the Tempo token launch."
+    },
+    "outcome-b3527c69fa366f622dc97e88": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_OUTCOME_BRIDGE",
+      "notes": "Before Jan 1, 2027 equals by Dec 31, 2026 11:59 PM ET for the Backpack token launch."
+    },
+    "outcome-41ab5674a259eb78f2115ca2": {
+      "decision": "MATCH",
+      "relation_type": "EVENT_OUTCOME_BRIDGE",
+      "notes": "Both predicates cover a Trump pardon, commutation or reprieve for Bob Menendez through Dec 31, 2026."
+    }
+  }
+}

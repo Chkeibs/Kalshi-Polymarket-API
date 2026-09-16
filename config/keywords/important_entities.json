@@ -1,0 +1,78 @@
+{
+  "anthropic": {
+    "type": "org",
+    "variants": []
+  },
+  "bitcoin": {
+    "type": "org",
+    "variants": ["btc"]
+  },
+  "donald trump": {
+    "type": "person",
+    "variants": ["trump", "donald j trump", "donald j. trump", "djt"]
+  },
+  "elon musk": {
+    "type": "person",
+    "variants": ["musk", "elon"]
+  },
+  "ethereum": {
+    "type": "org",
+    "variants": ["eth"]
+  },
+  "federal reserve": {
+    "type": "org",
+    "variants": ["fed", "fomc"]
+  },
+  "fc barcelona": {
+    "type": "org",
+    "variants": ["barcelona", "barca"]
+  },
+  "google": {
+    "type": "org",
+    "variants": ["alphabet"]
+  },
+  "joe biden": {
+    "type": "person",
+    "variants": ["biden"]
+  },
+  "kamala harris": {
+    "type": "person",
+    "variants": ["harris", "kamala"]
+  },
+  "microsoft": {
+    "type": "org",
+    "variants": ["msft"]
+  },
+  "openai": {
+    "type": "org",
+    "variants": ["open ai"]
+  },
+  "paris saint-germain": {
+    "type": "org",
+    "variants": ["psg", "paris sg", "paris saint germain"]
+  },
+  "russia": {
+    "type": "gpe",
+    "variants": ["russian"]
+  },
+  "tesla": {
+    "type": "org",
+    "variants": ["tesla motors"]
+  },
+  "ukraine": {
+    "type": "gpe",
+    "variants": ["ukrainian"]
+  },
+  "united kingdom": {
+    "type": "gpe",
+    "variants": ["uk", "u.k."]
+  },
+  "united states": {
+    "type": "gpe",
+    "variants": ["us", "u.s.", "usa", "u.s.a.", "america"]
+  },
+  "xi jinping": {
+    "type": "person",
+    "variants": ["xi"]
+  }
+}

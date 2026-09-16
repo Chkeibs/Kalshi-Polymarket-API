@@ -1,0 +1,180 @@
+{
+  "components_after": [
+    {
+      "edges": 873,
+      "nodes": 559
+    },
+    {
+      "edges": 189,
+      "nodes": 66
+    },
+    {
+      "edges": 168,
+      "nodes": 81
+    },
+    {
+      "edges": 82,
+      "nodes": 47
+    },
+    {
+      "edges": 76,
+      "nodes": 30
+    },
+    {
+      "edges": 74,
+      "nodes": 69
+    },
+    {
+      "edges": 66,
+      "nodes": 28
+    },
+    {
+      "edges": 46,
+      "nodes": 40
+    },
+    {
+      "edges": 46,
+      "nodes": 26
+    },
+    {
+      "edges": 44,
+      "nodes": 20
+    },
+    {
+      "edges": 43,
+      "nodes": 33
+    },
+    {
+      "edges": 40,
+      "nodes": 22
+    },
+    {
+      "edges": 38,
+      "nodes": 35
+    },
+    {
+      "edges": 38,
+      "nodes": 28
+    },
+    {
+      "edges": 37,
+      "nodes": 25
+    },
+    {
+      "edges": 30,
+      "nodes": 21
+    },
+    {
+      "edges": 30,
+      "nodes": 11
+    },
+    {
+      "edges": 28,
+      "nodes": 18
+    },
+    {
+      "edges": 26,
+      "nodes": 24
+    },
+    {
+      "edges": 26,
+      "nodes": 22
+    }
+  ],
+  "components_before": [
+    {
+      "edges": 7312,
+      "nodes": 2889
+    },
+    {
+      "edges": 602,
+      "nodes": 107
+    },
+    {
+      "edges": 270,
+      "nodes": 37
+    },
+    {
+      "edges": 144,
+      "nodes": 63
+    },
+    {
+      "edges": 113,
+      "nodes": 37
+    },
+    {
+      "edges": 87,
+      "nodes": 33
+    },
+    {
+      "edges": 82,
+      "nodes": 47
+    },
+    {
+      "edges": 77,
+      "nodes": 47
+    },
+    {
+      "edges": 68,
+      "nodes": 38
+    },
+    {
+      "edges": 68,
+      "nodes": 20
+    },
+    {
+      "edges": 67,
+      "nodes": 40
+    },
+    {
+      "edges": 60,
+      "nodes": 37
+    },
+    {
+      "edges": 54,
+      "nodes": 18
+    },
+    {
+      "edges": 51,
+      "nodes": 18
+    },
+    {
+      "edges": 45,
+      "nodes": 33
+    },
+    {
+      "edges": 44,
+      "nodes": 36
+    },
+    {
+      "edges": 38,
+      "nodes": 35
+    },
+    {
+      "edges": 37,
+      "nodes": 13
+    },
+    {
+      "edges": 36,
+      "nodes": 18
+    },
+    {
+      "edges": 32,
+      "nodes": 18
+    }
+  ],
+  "input_pairs": 10859,
+  "max_candidate_rank": 2,
+  "output_pairs": 5190,
+  "policy_version": "clustering-policy-v2",
+  "profile_fingerprint": "3057b859084b31e7eaf31d9778695cf87971f6a6afeb3fac0aa746a9778e91b6",
+  "profile_schema_version": "event-profile-v2",
+  "reduction_count": 5669,
+  "reduction_ratio": 0.522055,
+  "rejected_by_reason": {
+    "explicit_identity_conflict": 3210,
+    "high_frequency_only": 832,
+    "outside_candidate_budget": 1473,
+    "weak_without_primary_anchor": 154
+  }
+}

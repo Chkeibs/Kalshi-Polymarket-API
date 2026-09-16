@@ -1,0 +1,27 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+.venv/
+venv/
+env/
+
+logs/
+*.log
+
+# Generated runtime artifacts. Keep source/config code in Git; regenerate these locally.
+data/reports/
+data/cache/
+data/matches/llm_decisions_v2.jsonl
+config/poly_id_map.json
+
+# Local scratch exports.
+tmp/
+scratch/
